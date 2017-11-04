@@ -16,7 +16,7 @@ eskitarih1=""
 eskitarih2=""
 eskitarih3=""
 
-mail_1_alici = ['rafi57gerze@gmail.com','0901130315@ogr.iu.edu.tr']
+mail_1_alici = ['__MAIL__@gmail.com','__MAIL__@gmail.com']
 bir_mesaj_1parca= """\
 <html>
   <head></head>
@@ -35,7 +35,7 @@ bir_mesaj_2parca = """\
 </html>
 """
 
-mail_2_alici = ['rafi57gerze@gmail.com','0901130315@ogr.iu.edu.tr']
+mail_2_alici = ['__MAIL__@gmail.com','__MAIL__@gmail.com']
 iki_mesaj_1parca= """\
 <html>
   <head></head>
@@ -54,7 +54,7 @@ iki_mesaj_2parca = """\
 </html>
 """
 
-mail_3_alici = ['rafi57gerze@gmail.com','0901130315@ogr.iu.edu.tr']
+mail_3_alici = ['__MAIL__@gmail.com','__MAIL__@gmail.com']
 uc_mesaj_1parca= """\
 <html>
   <head></head>
